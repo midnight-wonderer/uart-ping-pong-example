@@ -1,0 +1,20 @@
+[submodule "utilities/builder"]
+	path = utilities/builder
+	url = https://github.com/midnight-wonderer/universal-stm8-builder.git
+	branch = master
+[submodule "vendor/stm8s"]
+	path = vendor/stm8s
+	url = https://github.com/the-cave/stm8s-header.git
+	branch = sdcc-patched
+[submodule "vendor/haystack-command-decoder"]
+	path = vendor/haystack-command-decoder
+	url = https://github.com/the-cave/haystack-command-decoder.git
+	branch = master
+[submodule "vendor/haystack-command-encoder"]
+	path = vendor/haystack-command-encoder
+	url = https://github.com/the-cave/haystack-command-encoder.git
+	branch = master
+[submodule "vendor/stm8s-uart1-transceiver"]
+	path = vendor/stm8s-uart1-transceiver
+	url = https://github.com/midnight-wonderer/stm8s-uart1-transceiver.git
+	branch = master
