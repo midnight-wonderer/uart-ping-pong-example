@@ -1,3 +1,7 @@
+// Copyright (c) 2020 Sarun Rattanasiri
+// under the 3-Clause BSD License
+// https://opensource.org/licenses/BSD-3-Clause
+
 #include "stm8s.h"
 
 #include "haystack_command_encoder.h"
